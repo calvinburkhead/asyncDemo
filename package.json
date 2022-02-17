@@ -1,0 +1,24 @@
+{
+  "name": "asyncdemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvinburkhead/asyncDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvinburkhead/asyncDemo/issues"
+  },
+  "homepage": "https://github.com/calvinburkhead/asyncDemo#readme",
+  "dependencies": {
+    "async": "^3.2.3",
+    "request": "2.79.0"
+  }
+}
